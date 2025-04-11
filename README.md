@@ -13,8 +13,6 @@ Interactive AR: Move, rotate, and resize 3D models in AR view
 Product Purchase: Add viewed products to cart
 Screenshot Capture: Take photos of products in your environment
 
-Screenshots:
-
 Technologies Used
 
 Flutter: UI framework for cross-platform mobile development
