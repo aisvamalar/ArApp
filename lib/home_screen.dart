@@ -47,7 +47,7 @@ class _HomeScreenState extends State<HomeScreen> {
       "price": "\$29.99",
     },
     {
-      "model3dUrl": "https://drrsxgopvzhnqfvdfjlm.supabase.co/storage/v1/object/public/models3d//modern_wooden_wardrobe.glb",
+      "model3dUrl": "https://drrsxgopvzhnqfvdfjlm.supabase.co/storage/v1/object/public/models3d//living_room_sofa__furniture.glb",
       "photoUrl": "https://drrsxgopvzhnqfvdfjlm.supabase.co/storage/v1/object/public/images//Living%20room%20sofa.png",
       "name": "Living Room Sofa",
       "price": "\$349.99",
